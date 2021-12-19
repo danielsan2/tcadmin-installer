@@ -11,7 +11,7 @@
 
 Remember that this is a unofficial script so TCAdmin.com won't give support to the script problems.
 
-For help and support about the script you can join my [Discord Server](https://eldremor.com/discord).
+For help and support about the script you can join my [Discord Server](https://daniel.com/discord).
 
 ## Supported installations
 
@@ -30,7 +30,7 @@ Just run the command below in your terminal
 
 Ubuntu:
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/eldremor/tcadmin-installer/main/tcadmin-installer.sh)
+bash <(curl -s https://raw.githubusercontent.com/danielsan2/tcadmin-installer/main/tcadmin-installer.sh)
 ```
 
 ## Firewall setup
@@ -39,8 +39,8 @@ The scripts already install and configure it so just sit and relax.
 
 ## Contributors ✨
 
-Copyright (C) 2021, Carlos "Eldremor" Dorelli, <carlos@timberhost.com.br>
+Copyright (C) 2021, danielsan2 "santos" danielsan2, <carlos@timberhost.com.br>
 
-Created and maintained by [Carlos "Eldremor" Dorelli](https://github.com/carlosdorelli/tcadmin-installer).
+Created and maintained by [danielsan2](https://github.com/danielsan2/tcadmin-installer).
 
 Special thanks to Luis Alvarenga for keeping TCAdmin the best during all these years!
