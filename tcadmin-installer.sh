@@ -36,18 +36,18 @@ output
 output "TCAdmin Installer @ $VERSION"
 output
 output "Copyright (C) 2021, Carlos 'Eldremor' Dorelli, <carlos@timberhost.com.br>"
-output "https://github.com/eldremor/tcadmin-installer"
+output "https://github.com/danielsan2/tcadmin-installer"
 output
 output "This is custom script and it's not related to TCAdmin.com"
 
 output
 
 panel() {
-  bash <(curl -s https://raw.githubusercontent.com/eldremor/tcadmin-installer/panel.sh)
+  bash <(curl -s https://raw.githubusercontent.com/danielsan2/tcadmin-installer/panel.sh)
 }
 
 mysql() {
-  bash <(curl -s https://raw.githubusercontent.com/eldremor/tcadmin-installer/mysql.sh)
+  bash <(curl -s https://raw.githubusercontent.com/danielsan2/tcadmin-installer/mysql.sh)
 }
 
 while [ "$done" == false ]; do
